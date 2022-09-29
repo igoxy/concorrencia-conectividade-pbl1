@@ -121,7 +121,7 @@ Executar o shell script:
 </p>
 
 ```bash
-$ sudo chmod +x run-docker-interface.sh     #Atribui a permissão de execução do script
+$ sudo chmod +x run-docker-interface.sh      #Atribui a permissão de execução do script
 $ ./run-docker-interface.sh                  #Executa o script
 ```
 <h3 id="configinterface">Configurações iniciais</h3>
