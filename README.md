@@ -18,6 +18,7 @@ TEC502 - MI - Concorrência e Conectividade
 • <a  href="#interface">Interface</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a  href="#exeinterface">  Como executar</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a  href="#configinterface"> Configurações iniciais</a> <br>
+• <a  href="#discente">Discente</a> <br>
 </p>
 
 <h2  id="tec" >🛠 Tecnologias </h2>
@@ -131,6 +132,6 @@ Ao iniciar o servidor da interface será solicitado o endereço (IP) do servidor
 <br>
 </p>
 
-<h2>Discente</h2>
+<h2 id="discente">Discente</h2>
 
 - Igor Figueredo Soares
