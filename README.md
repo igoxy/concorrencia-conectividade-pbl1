@@ -130,3 +130,6 @@ Ao iniciar o servidor da interface será solicitado o endereço (IP) do servidor
 <br>
 <br>
 </p>
+
+<h2>Discente</h2>
+- Igor Figueredo Soares
